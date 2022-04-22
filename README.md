@@ -6,7 +6,7 @@ Change the location with your deadbeef's file location.
 
 clone the repo & cd into it & make it executable `chmod +x dbf.sh`
 
-`sudo cp dbf.sh /usr/local/bin/`
+and run it:
 
 `./dbf.sh`
 
